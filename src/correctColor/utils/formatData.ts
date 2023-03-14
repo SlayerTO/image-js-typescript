@@ -1,7 +1,6 @@
 import { colord, extend, RgbColor } from 'colord';
 import labPlugin from 'colord/plugins/lab';
 
-import { ColorCard } from '../__tests__/testUtils/referenceColorCard';
 import { getRegressionVariables } from '../correctColor';
 
 extend([labPlugin]);
