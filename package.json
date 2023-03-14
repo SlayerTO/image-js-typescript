@@ -6,7 +6,7 @@
   "author": "Michaël Zasso",
   "license": "MIT",
   "files": [
-    "src",
+    "src"
   ],
   "main": "./lib/index.js",
   "scripts": {
